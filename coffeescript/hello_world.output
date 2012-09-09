@@ -1,0 +1,47 @@
+Hello World
+// basic math
+4
+2
+// loops; nested arrays; functions
+// if-conditionals
+totalsum*5: 10125
+// function overload
+24
+// try/catch blocks
+// ArrayLists
+5
+4
+0
+1
+2
+3
+0
+1
+2
+3
+0
+1
+2
+3
+// Maps
+4
+does not contain the value 'four'
+one=1
+two=2
+three=3
+four=4
+// Collections.sort
+four: 4
+one: 1
+three: 3
+two: 2
+OrderedDict
+one=1
+two=2
+three=3
+four=4
+duplicate key: '1' [uno] {{one}}
+1=one
+2=two
+3=three
+4=four
