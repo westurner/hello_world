@@ -1,0 +1,9 @@
+desc 'make helloworld'
+task :default => [:clean, :test] do
+end
+task :clean do
+    sh 'rm -fv *.output'
+end
+task :test do
+    sh "ruby ./hello_world.rb | tee hello_world.output"
+end

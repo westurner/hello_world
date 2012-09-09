@@ -1,0 +1,55 @@
+Hello World
+//basic math
+4.0
+2.0
+// loops; nested arrays; functions
+// if-conditionals
+totalsum*5: 10125
+//function overload
+24
+// input coercion
+// begin/rescue blocks
+err: 'x20.2' is not a double
+invalid value for Float(): "x20.2"
+// ArrayLists
+5
+5
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+// Maps
+size = 4
+one: 1
+does not contain the value 'four'
+two=2
+three=3
+one=1
+four=4
+// Collections.sort
+two: 2
+three: 3
+one: 1
+four: 4
+ // OrderedDict
+size = 4
+two=2
+three=3
+one=1
+four=4
+duplicate key: '1' [one] {{uno}}
+1=uno
+2=two
+3=three
+4=four
