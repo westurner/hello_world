@@ -18,6 +18,7 @@ Other Useful References
 -------------------------
 * http://learnxinyminutes.com/
 * http://learnxinyminutes.com/docs/c/
+* http://learnxinyminutes.com/docs/csharp/
 * http://learnxinyminutes.com/docs/c++/
 * http://learnxinyminutes.com/docs/coffeescript/
 * http://learnxinyminutes.com/docs/go/
@@ -31,6 +32,7 @@ Other Useful References
 * http://learnxinyminutes.com/docs/r/
 * http://learnxinyminutes.com/docs/ruby/
 * http://learnxinyminutes.com/docs/rust/
+* http://learnxinyminutes.com/docs/visualbasic/
 * 
 * https://github.com/tastejs/todomvc
 * https://github.com/TechEmpower/FrameworkBenchmarks
