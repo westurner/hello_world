@@ -16,6 +16,10 @@ Because it's been awhile.
 
 Other Useful References
 -------------------------
+https://en.wikipedia.org/wiki/Programming_language
+
+https://en.wikipedia.org/wiki/Category:Programming_languages
+
 * http://learnxinyminutes.com/
 * http://learnxinyminutes.com/docs/bash/
 * http://learnxinyminutes.com/docs/c/
