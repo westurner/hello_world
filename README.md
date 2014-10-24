@@ -47,7 +47,7 @@ Other Useful References
 * http://learnxinyminutes.com/docs/visualbasic/
 * http://learnxinyminutes.com/docs/xml/
 * http://learnxinyminutes.com/docs/yaml/
-* 
+* https://github.com/adambard/learnxinyminutes-docs
 * https://github.com/tastejs/todomvc
 * https://github.com/TechEmpower/FrameworkBenchmarks
 * http://rosettacode.org/wiki/Category:Programming_Tasks
