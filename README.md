@@ -56,3 +56,10 @@ Other Useful References
 * http://rosettacode.org/wiki/Category:Programming_Languages
 * http://rosettacode.org/wiki/Category:Python
 * http://rosettacode.org/wiki/Language_Comparison_Table
+* http://bigocheatsheet.com/
+* http://aima.cs.berkeley.edu/lisp/doc/overview.html
+* https://code.google.com/p/aima-java/
+* https://code.google.com/p/aima-python/
+* http://nlp.stanford.edu/IR-book/
+* https://github.com/papers-we-love/papers-we-love
+* https://github.com/bayandin/awesome-awesomeness
