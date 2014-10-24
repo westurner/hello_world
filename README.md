@@ -21,7 +21,9 @@ Other Useful References
 * http://learnxinyminutes.com/docs/c/
 * http://learnxinyminutes.com/docs/csharp/
 * http://learnxinyminutes.com/docs/c++/
+* http://learnxinyminutes.com/docs/css/
 * http://learnxinyminutes.com/docs/clojure/
+* http://learnxinyminutes.com/docs/common-lisp/
 * http://learnxinyminutes.com/docs/coffeescript/
 * http://learnxinyminutes.com/docs/dart/
 * http://learnxinyminutes.com/docs/go/
