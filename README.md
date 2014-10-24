@@ -20,18 +20,25 @@ Other Useful References
 * http://learnxinyminutes.com/docs/c/
 * http://learnxinyminutes.com/docs/csharp/
 * http://learnxinyminutes.com/docs/c++/
+* http://learnxinyminutes.com/docs/clojure/
 * http://learnxinyminutes.com/docs/coffeescript/
 * http://learnxinyminutes.com/docs/go/
+* http://learnxinyminutes.com/docs/haskell/
 * http://learnxinyminutes.com/docs/java/
 * http://learnxinyminutes.com/docs/javascript/
 * http://learnxinyminutes.com/docs/julia/
 * http://learnxinyminutes.com/docs/matlab/
+* http://learnxinyminutes.com/docs/objective-c/
+* http://learnxinyminutes.com/docs/perl/
+* http://learnxinyminutes.com/docs/perl6/
 * http://learnxinyminutes.com/docs/php/
 * http://learnxinyminutes.com/docs/python/
 * http://learnxinyminutes.com/docs/python3/
 * http://learnxinyminutes.com/docs/r/
 * http://learnxinyminutes.com/docs/ruby/
 * http://learnxinyminutes.com/docs/rust/
+* http://learnxinyminutes.com/docs/scala/
+* http://learnxinyminutes.com/docs/swift/
 * http://learnxinyminutes.com/docs/visualbasic/
 * 
 * https://github.com/tastejs/todomvc
