@@ -23,9 +23,12 @@ Other Useful References
 * http://learnxinyminutes.com/docs/go/
 * http://learnxinyminutes.com/docs/java/
 * http://learnxinyminutes.com/docs/javascript/
+* http://learnxinyminutes.com/docs/php/
 * http://learnxinyminutes.com/docs/python/
 * http://learnxinyminutes.com/docs/python3/
 * http://learnxinyminutes.com/docs/ruby/
+* http://learnxinyminutes.com/docs/rust/
+* 
 * https://github.com/tastejs/todomvc
 * https://github.com/TechEmpower/FrameworkBenchmarks
 * http://rosettacode.org/wiki/Category:Programming_Tasks
