@@ -23,9 +23,12 @@ Other Useful References
 * http://learnxinyminutes.com/docs/go/
 * http://learnxinyminutes.com/docs/java/
 * http://learnxinyminutes.com/docs/javascript/
+* http://learnxinyminutes.com/docs/julia/
+* http://learnxinyminutes.com/docs/matlab/
 * http://learnxinyminutes.com/docs/php/
 * http://learnxinyminutes.com/docs/python/
 * http://learnxinyminutes.com/docs/python3/
+* http://learnxinyminutes.com/docs/r/
 * http://learnxinyminutes.com/docs/ruby/
 * http://learnxinyminutes.com/docs/rust/
 * 
