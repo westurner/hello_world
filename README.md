@@ -54,4 +54,5 @@ Other Useful References
 * https://github.com/TechEmpower/FrameworkBenchmarks
 * http://rosettacode.org/wiki/Category:Programming_Tasks
 * http://rosettacode.org/wiki/Category:Programming_Languages
+* http://rosettacode.org/wiki/Category:Python
 * http://rosettacode.org/wiki/Language_Comparison_Table
