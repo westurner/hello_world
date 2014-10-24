@@ -17,16 +17,20 @@ Because it's been awhile.
 Other Useful References
 -------------------------
 * http://learnxinyminutes.com/
+* http://learnxinyminutes.com/docs/bash/
 * http://learnxinyminutes.com/docs/c/
 * http://learnxinyminutes.com/docs/csharp/
 * http://learnxinyminutes.com/docs/c++/
 * http://learnxinyminutes.com/docs/clojure/
 * http://learnxinyminutes.com/docs/coffeescript/
+* http://learnxinyminutes.com/docs/dart/
 * http://learnxinyminutes.com/docs/go/
+* http://learnxinyminutes.com/docs/git/
 * http://learnxinyminutes.com/docs/haskell/
 * http://learnxinyminutes.com/docs/java/
 * http://learnxinyminutes.com/docs/javascript/
 * http://learnxinyminutes.com/docs/julia/
+* http://learnxinyminutes.com/docs/lua/
 * http://learnxinyminutes.com/docs/matlab/
 * http://learnxinyminutes.com/docs/objective-c/
 * http://learnxinyminutes.com/docs/perl/
@@ -39,7 +43,10 @@ Other Useful References
 * http://learnxinyminutes.com/docs/rust/
 * http://learnxinyminutes.com/docs/scala/
 * http://learnxinyminutes.com/docs/swift/
+* http://learnxinyminutes.com/docs/tmux/
 * http://learnxinyminutes.com/docs/visualbasic/
+* http://learnxinyminutes.com/docs/xml/
+* http://learnxinyminutes.com/docs/yaml/
 * 
 * https://github.com/tastejs/todomvc
 * https://github.com/TechEmpower/FrameworkBenchmarks
