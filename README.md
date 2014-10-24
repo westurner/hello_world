@@ -17,6 +17,15 @@ Because it's been awhile.
 Other Useful References
 -------------------------
 * http://learnxinyminutes.com/
+* http://learnxinyminutes.com/docs/c/
+* http://learnxinyminutes.com/docs/c++/
+* http://learnxinyminutes.com/docs/coffeescript/
+* http://learnxinyminutes.com/docs/go/
+* http://learnxinyminutes.com/docs/java/
+* http://learnxinyminutes.com/docs/javascript/
+* http://learnxinyminutes.com/docs/python/
+* http://learnxinyminutes.com/docs/python3/
+* http://learnxinyminutes.com/docs/ruby/
 * https://github.com/tastejs/todomvc
 * https://github.com/TechEmpower/FrameworkBenchmarks
 * http://rosettacode.org/wiki/Category:Programming_Tasks
